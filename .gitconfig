@@ -1,0 +1,6 @@
+# This is Git's per-user configuration file.
+[user]
+	name = SirFrey
+	email = moisescastellano12312@gmail.com
+[pull]
+	rebase = true
