@@ -4,3 +4,5 @@
 	email = moisescastellano12312@gmail.com
 [pull]
 	rebase = true
+[core]
+	editor = code --wait
